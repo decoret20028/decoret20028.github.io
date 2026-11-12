@@ -1,4 +1,4 @@
 baseURL = 'https://decoret20028.github.io/'
-locate = "ru"
+locale = "ru"
 title = "Write-up"
 theme = "PaperMod"
